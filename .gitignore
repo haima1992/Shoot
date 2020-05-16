@@ -1,0 +1,8 @@
+### Example user template
+
+# IntelliJ project files
+.idea
+.settings
+*.iml
+target
+out
